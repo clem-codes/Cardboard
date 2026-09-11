@@ -1,4 +1,4 @@
-# OneFile Kanban
+# Cardboard, the OneFile Kanban
 
 A self-hosted kanban board with swimlanes, packaged as a single HTML file. No install, no server, no build step. Open it in a browser and use it.
 
